@@ -1,0 +1,9 @@
+# ambiente virtual
+.venv/
+
+# banco de dados
+*.db
+
+# cache python
+__pycache__/
+*.pyc
