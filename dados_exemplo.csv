@@ -1,0 +1,11 @@
+data_ocorrencia,setor,responsavel,tipo_erro,gravidade,status,tempo_resolucao,descricao
+2026-03-01,Operações,João,Erro sistema,Alta,Resolvido,5,Falha no sistema de pedidos
+2026-03-02,Financeiro,Maria,Erro humano,Média,Em andamento,3,Erro de lançamento manual
+2026-03-03,Logística,Carlos,Atraso,Baixa,Resolvido,2,Atraso na entrega
+2026-03-04,TI,Ana,Erro sistema,Alta,Resolvido,6,Servidor fora do ar
+2026-03-05,Operações,Pedro,Retrabalho,Média,Resolvido,4,Processo duplicado
+2026-03-06,Atendimento,Larissa,Erro humano,Baixa,Resolvido,1,Informação incorreta ao cliente
+2026-03-07,Financeiro,Bruno,Erro sistema,Alta,Resolvido,5,Sistema contábil travando
+2026-03-08,Logística,Marcos,Atraso,Média,Em andamento,3,Atraso transporte
+2026-03-09,TI,Juliana,Erro sistema,Alta,Resolvido,7,Falha de rede
+2026-03-10,Operações,Rafaela,Retrabalho,Média,Resolvido,4,Processo incorreto
